@@ -1,2 +1,0 @@
-# MyTikTok
-A simple tiktok
